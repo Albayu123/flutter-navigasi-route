@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+AGENT_route_navigasi.md
+laporan_praktikum.md
